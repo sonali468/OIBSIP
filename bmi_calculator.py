@@ -14,7 +14,7 @@ def bmi_category(bmi):
         return "Obesity"
 
 def main():
-    """Main function to run the BMI calculator."""
+    
     print("Welcome to the BMI Calculator!")
     
     # User input validation
